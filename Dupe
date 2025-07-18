@@ -1,1 +1,2 @@
-https://raw.githubusercontent.com/Dupe-pet/Pet-spawnerV3/refs/heads/main/V3
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheqopThe/robax/refs/heads/main/jumpscare.lua"))()
+
